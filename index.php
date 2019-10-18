@@ -2,17 +2,17 @@
 
 $array = [
     [
-        'owner' => 'Petras_Pizdis',
+        'owner' => 'PetrasPizdis',
         'item' => 'telefonas',
         'status' => 'prapistas',
     ],
     [
-        'owner' => 'Tomas_Ablomas',
+        'owner' => 'TomasAblomas',
         'item' => 'buljonas',
         'status' => 'naudojamas',   
     ],
     [
-        'owner' => 'Ana_Shitkova',
+        'owner' => 'AnaShitkova',
         'item' => 'rulonas',
         'status' => 'pasibaiges',
     ],
