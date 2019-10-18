@@ -2,19 +2,19 @@
 
 $maisto_produktai = [
     [
-        'pavadinimas' => 'kiausai',
-        'dydis' => 'didelis',
-        'kiekis' => 2,
+        'name' => 'kiausiniai',
+        'size' => 'big',
+        'quantity' => 2,
     ],
     [
-     'pavadinimas' => 'baklazanai',
-        'dydis' => 'mazas',
-        'kiekis' => 1,   
+     'name' => 'baklazanas',
+        'size' => 'small',
+        'quantity' => 1,   
     ],
     [
-        'pavadinimas' => 'grietines_indelis',
-        'dydis' => 'didelis',
-        'kiekis' => 2,
+        'name' => 'grietines_indelis',
+        'size' => 'big',
+        'quantity' => 2,
     ],
  ];
  var_dump($maisto_produktai);
