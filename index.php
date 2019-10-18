@@ -1,23 +1,23 @@
 <?php
 
-$maisto_produktai = [
+$array = [
     [
-        'name' => 'kiausiniai',
-        'size' => 'big',
-        'quantity' => 2,
+        'owner' => 'Petras_Pizdis',
+        'item' => 'telefonas',
+        'status' => 'prapistas',
     ],
     [
-     'name' => 'baklazanas',
-        'size' => 'small',
-        'quantity' => 1,   
+        'owner' => 'Tomas_Ablomas',
+        'item' => 'buljonas',
+        'status' => 'naudojamas',   
     ],
     [
-        'name' => 'grietines_indelis',
-        'size' => 'big',
-        'quantity' => 2,
+        'owner' => 'Ana_Shitkova',
+        'item' => 'rulonas',
+        'status' => 'pasibaiges',
     ],
  ];
- var_dump($maisto_produktai);
+ var_dump($array);
 
 
 ?>
